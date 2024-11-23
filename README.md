@@ -1,5 +1,7 @@
 <h1 align="center"> Bonjour! I'm <a href="https://in.linkedin.com/in/joshua-cohen-dumani/"><b>Joshua Cohen-Dumani 👋</b></a>.</h1>
 
+<h3 align="center">Data Science | Product | Startups | Machine Learning </h3>
+
 <p>I'm an EPFL engineer and tech enthusiast with a passion for product innovation and data, currently pursuing a Master's in Technology Management and Data Science after a Bachelor's in Microengineering.
 </br></br>
 During my studies at EPFL, I have spent time building rockets for the <a href="https://epflrocketteam.ch/" target="_blank" rel="noopener noreferrer">EPFL Rocket Team</a>, been President at the <a href="https://www.ec-epfl-unil.org/" target="_blank" rel="noopener noreferrer">Entrepreneur Club</a> and Managing Partner at student-led VC fund <a href="https://www.campus.founderful.com/" target="_blank" rel="noopener noreferrer">Founderful Campus</a>. I also worked for <a href="https://www.intel.com/content/www/us/en/research/neuromorphic-computing.html" target="_blank" rel="noopener noreferrer">Intel Labs</a> as a Software Engineer and for <a href="https://www.daav.ch/" target="_blank" rel="noopener noreferrer">DAAV</a> on Business Development.
