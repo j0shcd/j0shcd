@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour! I'm <a href="https://in.linkedin.com/in/joshua-cohen-dumani/"><b>Joshua Cohen-Dumani</b></a>.</h1>
+<h1 align="center"> Bonjour! I'm <a href="https://in.linkedin.com/in/joshua-cohen-dumani/"><b>Joshua Cohen-Dumani. 👋</b></a>.</h1>
 
 <p>I'm an EPFL engineer and tech enthusiast with a passion for product innovation and data, currently pursuing a Master's in Technology Management and Data Science after a Bachelor's in Microengineering.
 </br></br>
