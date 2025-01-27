@@ -8,7 +8,7 @@ During my studies at EPFL, I have spent time building rockets for the <a href="h
 </br></br>
 Outside of my professional pursuits, I enjoy exploring nature, photography, and cooking.
 </br></br>
-I'm currently on the lookout for a place to complete my master's internship, preferably in a product management or data scientist role. Please feel free to <a href="https://joshuacohendumani.com/contact" target="_blank" rel="noopener noreferrer">teach out</a> if you are interested in chatting!</p>
+I'm currently on the lookout for a place to complete my master's internship, preferably in a product management or data scientist role. Please feel free to <a href="https://joshuacohendumani.com/contact" target="_blank" rel="noopener noreferrer">reach out</a> if you are interested in chatting!</p>
 <!--
 **j0shcd/j0shcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
