@@ -2,7 +2,7 @@
 
 VC at [Founderful](https://founderful.com) - pre-seed, Switzerland. 
 
-EPFL — Microengineering + Technology Management & Data Science.
+EPFL MSc : Microengineering + Technology Management & Data Science.
 
 Previously: ML research at EPFL NLP Lab (Swiss AI Initiative), Product at Mirakl, software engineering at Intel Labs.
 
