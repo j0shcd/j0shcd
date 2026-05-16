@@ -8,4 +8,4 @@ Previously: ML research at EPFL NLP Lab (Swiss AI Initiative), product at Mirakl
 
 Projects here are a mix of research, client work, and tools I built to understand something better.
 
-If you're building in Switzerland -> [joshuacohendumani.com](https://joshuacohendumani.com)
+You can check out my photography -> [joshuacohendumani.com](https://joshuacohendumani.com)
